@@ -1,1 +1,1 @@
-print('Ini adalah kalkulator')
+print('Ini adalah kalkulators')
